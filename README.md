@@ -13,3 +13,4 @@ Here are ways to say hello in the 10 most widely spoken languages in the world:
 11. **Italian**: Ciao
 12. **French**: Salut
 13. **Sanskrit**: नमस्कारः
+14. **German**: Hallo
